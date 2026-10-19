@@ -27,7 +27,7 @@ los archivos de Word y Excel).
 ## 3. Ejecutar
 
 ```
-python ginefobia.py
+python TicketWise.py
 ```
 
 Se abre la ventana de la app. La primera vez va a crear el archivo
